@@ -1,0 +1,6 @@
+C:\Users\syune.ghazaryan\source\repos\ConsoleApp2\ATMMachine\bin\Debug\ATMMachine.exe.config
+C:\Users\syune.ghazaryan\source\repos\ConsoleApp2\ATMMachine\bin\Debug\ATMMachine.exe
+C:\Users\syune.ghazaryan\source\repos\ConsoleApp2\ATMMachine\bin\Debug\ATMMachine.pdb
+C:\Users\syune.ghazaryan\source\repos\ConsoleApp2\ATMMachine\obj\Debug\ATMMachine.csprojAssemblyReference.cache
+C:\Users\syune.ghazaryan\source\repos\ConsoleApp2\ATMMachine\obj\Debug\ATMMachine.exe
+C:\Users\syune.ghazaryan\source\repos\ConsoleApp2\ATMMachine\obj\Debug\ATMMachine.pdb
